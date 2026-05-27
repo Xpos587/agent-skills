@@ -1,0 +1,43 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "agent-skills",
+  "owner": {
+    "name": "xpos587"
+  },
+  "metadata": {
+    "description": "Cross-agent skill collection for AI-driven development. Works with any agent supporting the Agent Skills standard.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "agent-skills",
+      "description": "Cross-agent skill collection for AI-driven development: research, engineering practices, debugging, code review, frontend, backend, mobile, infra, and more.",
+      "version": "1.0.0",
+      "author": {
+        "name": "xpos587"
+      },
+      "homepage": "https://github.com/xpos587/agent-skills",
+      "repository": "https://github.com/xpos587/agent-skills",
+      "license": "MIT",
+      "source": "./",
+      "category": "developer-tools",
+      "tags": [
+        "skills",
+        "agent-skills",
+        "cross-agent",
+        "claude-code",
+        "codex-cli",
+        "opencode"
+      ],
+      "keywords": [
+        "claude-code",
+        "codex-cli",
+        "opencode",
+        "cursor",
+        "gemini-cli",
+        "agent-skills",
+        "skills"
+      ]
+    }
+  ]
+}

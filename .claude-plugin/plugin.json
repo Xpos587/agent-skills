@@ -1,0 +1,21 @@
+{
+  "name": "agent-skills",
+  "description": "Cross-agent skill collection for AI-driven development: research, engineering practices, debugging, code review, frontend, backend, mobile, infra, and more. Works with Claude Code, Codex CLI, OpenCode, Cursor, Gemini CLI, and any agent supporting the Agent Skills standard.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xpos587"
+  },
+  "homepage": "https://github.com/xpos587/agent-skills",
+  "repository": "https://github.com/xpos587/agent-skills",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "codex-cli",
+    "opencode",
+    "cursor",
+    "gemini-cli",
+    "agent-skills",
+    "skills",
+    "cross-agent"
+  ]
+}
